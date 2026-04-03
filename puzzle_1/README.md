@@ -26,8 +26,8 @@ Both scripts contain a function that returns a list of all valid 10‑digit perm
 From this folder you can run either solution directly:
 
 ```sh
-python puzzel_1/solution_1.py
-python puzzel_1/solution_2.py
+python puzzle_1/solution_1.py
+python puzzle_1/solution_2.py
 ```
 
 Each script prints the runtime and the count of valid solutions found.
